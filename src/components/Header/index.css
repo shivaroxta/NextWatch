@@ -1,0 +1,30 @@
+.header-elements {
+  display: flex;
+  flex-direction: row;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.website-header-logo {
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.header-elements {
+  margin-right: 130px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.FaMoon {
+  height: 140px;
+}
+.profileIcon {
+  height: 40px;
+}
+.button-logout {
+  margin-left: 20px;
+  margin-bottom: 80px;
+  padding: 10px;
+}

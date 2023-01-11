@@ -1,0 +1,27 @@
+.filter-groups {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 10vh;
+  width: 10vw;
+}
+.sites {
+  display: flex;
+  flex-direction: row;
+}
+.contact-us {
+  font-size: 10px;
+}
+.site {
+  height: 40px;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+}
+.item {
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  text-align: left;
+}
